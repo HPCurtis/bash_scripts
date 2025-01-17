@@ -5,6 +5,6 @@ conda install anaconda::statsmodels -y
 conda install conda-forge::darts -y
 conda install conda-forge::statsforecast -y
 pip install skforecast
-
+conda install -c conda-forge polars
 
  
